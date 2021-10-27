@@ -4,7 +4,7 @@ Download the data from https://community.amstat.org/jointscsg-section/dataexpo/d
 Create a bucket in GCS and move the downloaded file to it.
 Open pyspark in Jupyter and run the following code.
 
-NB: The benefit of reading files from google cloud storage rather than HDFS in this project is explianed here: https://cloud.google.com/dataproc/docs/concepts/connectors/cloud-storage?fbclid=IwAR1-LHKCYQKX25TMVReM0TybXhXODT_f9NB9u6LvbcbYzx1FtPFPj1HyuPI
+NB: The benefit of reading files from google cloud storage rather than HDFS in this project is explained here: https://cloud.google.com/dataproc/docs/concepts/connectors/cloud-storage?fbclid=IwAR1-LHKCYQKX25TMVReM0TybXhXODT_f9NB9u6LvbcbYzx1FtPFPj1HyuPI
 
 
 
